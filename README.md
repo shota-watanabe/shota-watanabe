@@ -8,7 +8,7 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shota-watanabe&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 # Languages, Frameworks
-<img src="https://skillicons.dev/icons?i=ruby,rails,php,laravel,vue,nuxt,js,typescript" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=ruby,rails,php,laravel,vue,nuxt,js,typescript" />
 
 # Tools
 <img src="https://skillicons.dev/icons?i=github,vscode,docker,postman,figma" /> <br /><br />
